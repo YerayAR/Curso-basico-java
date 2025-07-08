@@ -12,6 +12,7 @@ public class HelloWorldExercises {
         // 1. Imprime un mensaje que diga tu nombre en lugar de "¡Hola Mundo!".
 
         // 2. Imprime dos líneas: "Hola" y luego "Mundo" con un solo println.
+        System.out.println("Hola\nMundo");
 
         // 3. Añade un comentario sobre lo que hace cada línea del programa.
 
@@ -19,7 +20,7 @@ public class HelloWorldExercises {
 
         // 5. Imprime tu edad, tu color favorito y tu ciudad.
 
-        // 6. Explora los diferentes System.XXX.println(); más allá de "out".
+        // 6. Explora los diferentes
 
         // 7. Utiliza varios println para imprimir una frase.
 

@@ -10,6 +10,8 @@ public class Abstraction {
     public static void main(String[] args) {
 
         // Abstracción
+        // - Permite ocultar los detalles de implementación y mostrar solo las características esenciales.
+        // - Se logra mediante clases abstractas e interfaces.
 
         // - Clase abstracta
 
@@ -22,11 +24,20 @@ public class Abstraction {
         cat.sound();
 
         // - Interface
+        var bird = new Bird();
+        bird.fly();
+        bird.sound();
+        dog.sleep();
+
+        var bat = new Bat();
+        bat.fly();  
+        bat.sound();
+        dog.sleep();
     }
 
     // - Clase abstracta
 
-    public static abstract class Animal {
+    public abstract static class Animal {
 
         public abstract void sound();
 
