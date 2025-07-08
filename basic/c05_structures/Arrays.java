@@ -44,4 +44,9 @@ public class Arrays {
         boolean[] booleans = new boolean[5];
         System.out.println(booleans[4]);
     }
+
+    public static Object asList(Integer[] array) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'asList'");
+    }
 }
