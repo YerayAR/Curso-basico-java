@@ -9,10 +9,9 @@ public class Operators {
 
     public static void main(String[] args) {
 
-        // Operadores
-
+        /* Operadores en Java */
+       
         // Aritméticos
-
         var a = 5;
         var b = 3;
 
