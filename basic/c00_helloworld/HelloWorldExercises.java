@@ -39,11 +39,11 @@ public class HelloWorldExercises {
         System.out.println("Este es un mensaje impreso en varias líneas.");
         System.out.println("Cada línea se imprime por separado.");
 
-        // 8. Imprime un diseño ASCII (por ejemplo, una cara feliz usando símbolos).
-        System.out.println("  ^   ^ ");
-        System.out.println("  (o o)");
-        System.out.println("    _");
-        System.out.println("   \\_/ ");
+         // 8. Imprime un diseño ASCII (por ejemplo, una cara feliz usando símbolos).
+        System.out.println("  ^_^  ");
+        System.out.println("( \\/  ) ");
+        System.out.println(" <___>  ");
+        System.out.println("  \\_/  ");
 
         // 9. Intenta ejecutar el programa sin el método main y observa el error.
         // Si intentas ejecutar el programa sin el método main, obtendrás un error de compilación
