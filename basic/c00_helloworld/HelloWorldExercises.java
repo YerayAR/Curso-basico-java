@@ -29,11 +29,7 @@ public class HelloWorldExercises {
         // 5. Imprime tu edad, tu color favorito y tu ciudad.
         System.out.println("Edad: 35");
         System.out.println("Color favorito: Azul");
-        System.out.println("Ciudad: S/C Tenerife");
-
-        // 6. Explora los diferentes System.XXX.println(); más allá de "out".
-        // Aquí puedes explorar otros métodos de impresión, como System.err.println() para errores.
-        System.err.println("Este es un mensaje de error de ejemplo.");
+        System.out.println("Ciudad: S/C Tenerife);
 
         // 7. Utiliza varios println para imprimir una frase.
         System.out.println("Este es un mensaje impreso en varias líneas.");
